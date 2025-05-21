@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 
+
 //Clase que representa una tarea en la aplicación
 public class Tarea implements Serializable {
 
